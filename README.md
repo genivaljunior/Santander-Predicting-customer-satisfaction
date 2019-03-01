@@ -1,5 +1,4 @@
-# Data Science Academy Project:
-Santander: Predicting Customer satisfaction
+# Data Science Academy Project: Santander: Predicting Customer satisfaction
 
 This project is  part of the "Formação Cientista de Dados" of Data Science Academy
 
